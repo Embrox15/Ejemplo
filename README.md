@@ -1,1 +1,5 @@
 # Ejemplo
+
+## Categoría
+
+### Subcategoría
